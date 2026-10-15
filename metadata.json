@@ -1,0 +1,6 @@
+{
+  "name": "InstaFetch Pro - Instagram Bulk Media & Reels Downloader",
+  "description": "Download full Instagram profiles, Reels, Stories, Posts, and Highlights at once in 4K/HD. Features reels frame extractor, audio extraction, and HD image enhancer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
